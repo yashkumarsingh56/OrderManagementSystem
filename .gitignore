@@ -1,0 +1,18 @@
+# Ignore backend build files
+/OrderManagementSystem/target/
+/OrderManagementSystem/.idea/
+/OrderManagementSystem/.classpath
+/OrderManagementSystem/.project
+/OrderManagementSystem/.settings/
+
+# Ignore frontend node_modules
+/order-management-frontend/node_modules/
+/order-management-frontend/.next/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and environment files
+*.log
+.env
